@@ -9,7 +9,7 @@
 - To learn Rust and create a real world application/ module.
 - To learn Web Assembly and create a real world application/ module.
 
-## bucket-list (non-geeky version);
+## bucket-list (non-geeky version)
 
 - TBD
 
